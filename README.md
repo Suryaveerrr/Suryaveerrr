@@ -1,6 +1,6 @@
 ## Hey there, I'm Suryaveer Bhandari  
 
-🎮 **Game developer | Unity | Unreal
+🎮 **Game developer | Unity | Unreal**
 
 I’m passionate about building ** immersive games** and exploring the intersection of **AI & Game Development**.  
   
