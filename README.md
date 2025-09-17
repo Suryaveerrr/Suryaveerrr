@@ -2,7 +2,7 @@
 
 🎮 **Game developer | Unity | Unreal**
 
-I’m passionate about building ** immersive games** and exploring the intersection of **AI & Game Development**.  
+I’m passionate about building **immersive games** and exploring the intersection of **AI & Game Development**.  
   
 ---
 
