@@ -37,7 +37,7 @@ I’m passionate about building **immersive games** and exploring the intersecti
 ---
 
 ## 📊 GitHub Stats
-![Suryaveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suryaveerrr&show_icons=true&theme=radical)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaveerrr&layout=compact&theme=radical)  
 
 ---
