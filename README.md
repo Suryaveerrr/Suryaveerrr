@@ -10,7 +10,7 @@ I’m passionate about building **immersive games** and exploring the intersecti
 - 🕹️ Developing **2D & 3D games** in Unity (C# + Blender)  
 - 🤖 Exploring **AI in Games** (LLMs for NPCs, Computer Vision, Pathfinding)  
 - 🌱 Learning **OpenGL, Unreal Engine, and advanced AI techniques**  
-- 🎯 Career Goal: To create **next-gen story-driven games**  
+
 
 ---
 
