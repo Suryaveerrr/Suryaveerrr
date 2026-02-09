@@ -1,36 +1,39 @@
-## Hey, I’m Suryaveer Bhandari
+## Hey, I’m Suryaveer 
 
-I’m interested in games as engineering systems — real-time simulation, gameplay architecture, and intelligent behavior under performance constraints.
+I’m into games, but not just the “press button → fun happens” part.  
+I care about the systems underneath — the code that decides *why* something works, *why* it breaks, and *why* it suddenly drops to 20 FPS.
 
-My work focuses on gameplay and systems programming, AI-driven mechanics, and modular, maintainable code rather than engine-specific features.
+I mostly work on gameplay and systems programming, AI behavior, and real-time interaction. I enjoy building things that are modular, maintainable, and only mildly hostile to future-me.
 
 ---
 
-## 🧠 What I Work On
+## Things I Spend Too Much Time On
 - Gameplay & systems programming (C++ / C#)
-- AI behavior systems (FSMs, event-driven logic, pathfinding)
-- Real-time interaction & simulation
-- Performance-oriented design patterns
+- AI behavior systems (FSMs, pathfinding, NPCs that almost feel smart)
+- Real-time simulation & performance problems I caused myself
+- Writing code that doesn’t immediately collapse when I add one feature
 
 ---
 
-## 🛠️ Technical Stack
+## Stuff I Use (and Sometimes Fight With)
 **Languages**
 - C++, C#, Python
 
 **Game & Systems**
-- Unity (engineering-focused usage)
-- Unreal Engine (learning, engine-side exploration)
-- OpenGL (fundamentals, graphics pipeline)
+- Unity (used as an engineering playground, not magic)
+- Unreal Engine (slowly poking at the engine side)
+- OpenGL (because I wanted to know what the GPU is actually doing)
 
-**Tools**
-- Git, GitHub
-- Blender (supporting asset workflow)
+**Other Tools**
+- Git & GitHub (my emotional support version control)
+- Blender (when code alone can’t save me)
 
 ---
 
-## 📌 Selected Work
-Most repositories here are experimental prototypes and technical testbeds, used to explore architecture, AI behavior, and system-level design in interactive environments.
+## What Lives in This Repo
+Prototypes, experiments, and technical testbeds.  
+Some are polished. Some are “learning experiences.”  
+All of them taught me something — usually about architecture or humility.
 
 ---
 
@@ -39,4 +42,4 @@ Most repositories here are experimental prototypes and technical testbeds, used 
 
 ---
 
-_Engineering interactive systems through games._
+_Building interactive systems. Debugging my life choices._
