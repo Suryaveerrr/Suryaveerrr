@@ -30,7 +30,7 @@ I mostly work on gameplay and systems programming, AI behavior, and real-time in
 
 ---
 
-## What Lives in This Repo
+## What Lives Here
 Prototypes, experiments, and technical testbeds.  
 Some are polished. Some are “learning experiences.”  
 All of them taught me something — usually about architecture or humility.
