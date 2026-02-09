@@ -1,50 +1,42 @@
-## Hey there, I'm Suryaveer Bhandari  
+## Hey, I’m Suryaveer Bhandari
 
-🎮 **Game developer | Unity | Unreal**
+I’m interested in games as engineering systems — real-time simulation, gameplay architecture, and intelligent behavior under performance constraints.
 
-I’m passionate about building **immersive games** and exploring the intersection of **AI & Game Development**.  
-  
----
-
-## 🚀 About Me
-- 🕹️ Developing **2D & 3D games** in Unity (C# + Blender)  
-- 🤖 Exploring **AI in Games** (LLMs for NPCs, Computer Vision, Pathfinding)  
-- 🌱 Learning **OpenGL, Unreal Engine, and advanced AI techniques**  
-
+My work focuses on gameplay and systems programming, AI-driven mechanics, and modular, maintainable code rather than engine-specific features.
 
 ---
 
-## 🛠️ Tech Stack
-### 🎮 Game Development  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)  
-
-### 💻 Programming & AI  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-
-### 🌐 Other Tools  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+## 🧠 What I Work On
+- Gameplay & systems programming (C++ / C#)
+- AI behavior systems (FSMs, event-driven logic, pathfinding)
+- Real-time interaction & simulation
+- Performance-oriented design patterns
 
 ---
 
-👉 Check out my repos for more cool stuff!  
+## 🛠️ Technical Stack
+**Languages**
+- C++, C#, Python
+
+**Game & Systems**
+- Unity (engineering-focused usage)
+- Unreal Engine (learning, engine-side exploration)
+- OpenGL (fundamentals, graphics pipeline)
+
+**Tools**
+- Git, GitHub
+- Blender (supporting asset workflow)
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Selected Work
+Most repositories here are experimental prototypes and technical testbeds, used to explore architecture, AI behavior, and system-level design in interactive environments.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaveerrr&layout=compact&theme=radical)  
+---
+
+## 🌐 Connect
+[LinkedIn](https://linkedin.com/in/suryaveerb)
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryaveerb)  
-
-
----
-⭐️ **Engineering Interactive Worlds**  
+_Engineering interactive systems through games._
