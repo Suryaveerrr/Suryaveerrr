@@ -1,7 +1,8 @@
 ## Hey, I’m Suryaveer 
 
-I’m into games, but not just the “press button → fun happens” part.  
-I care about the systems underneath — the code that decides *why* something works, *why* it breaks, and *why* it suddenly drops to 20 FPS.
+I’m into games, but not just the “press button -> fun happens” part.  
+I care about the systems underneath
+the code that decides *why* something works, *why* it breaks, and *why* it suddenly drops to 20 FPS.
 
 I mostly work on gameplay and systems programming, AI behavior, and real-time interaction. I enjoy building things that are modular, maintainable, and only mildly hostile to future-me.
 
