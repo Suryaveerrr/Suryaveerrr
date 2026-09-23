@@ -38,9 +38,8 @@ All of them taught me something usually about architecture or humility.
 
 ---
 
-## 🌐 Connect
+## Connect
 [LinkedIn](https://linkedin.com/in/suryaveerb)
 
 ---
 
-_Building interactive systems. Debugging my life choices._
