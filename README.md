@@ -21,7 +21,7 @@ I mostly work on gameplay and systems programming, AI behavior, and real-time in
 - C++, C#, Python
 
 **Game & Systems**
-- Unity (used as an engineering playground, not magic)
+- Unity 
 - Unreal Engine (slowly poking at the engine side)
 - OpenGL (because I wanted to know what the GPU is actually doing)
 
