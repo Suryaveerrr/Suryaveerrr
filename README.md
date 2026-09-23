@@ -16,7 +16,7 @@ I mostly work on gameplay and systems programming, AI behavior, and real-time in
 
 ---
 
-## Stuff I Use (and Sometimes Fight With)
+## Stuff I Use 
 **Languages**
 - C++, C#, Python
 
@@ -26,14 +26,14 @@ I mostly work on gameplay and systems programming, AI behavior, and real-time in
 - OpenGL (because I wanted to know what the GPU is actually doing)
 
 **Other Tools**
-- Git & GitHub (my emotional support version control)
 - Blender (when code alone can’t save me)
+  
 
 ---
 
 ## What Lives Here
 Prototypes, experiments, and technical testbeds.  
-Some are polished. Some are “learning experiences.”  
+Some are polished. Some are “learning experiences”.  
 All of them taught me something usually about architecture or humility.
 
 ---
